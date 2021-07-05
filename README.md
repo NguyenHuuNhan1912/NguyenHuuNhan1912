@@ -1,6 +1,6 @@
 ░▒▓█►─═💎  𝕙𝓔𝐥𝐋๏ ═💎 ─◄█▓▒░
 
-💝💙 •➻❥𝔽𝓐ＣＥⒷ𝕠Ø𝐊︵❣ 💋👑 --⋟ https://www.facebook.com/NhanCoder6311
+💙 •➻❥𝔽𝓐ＣＥⒷ𝕠Ø𝐊 --⋟ https://www.facebook.com/NhanCoder6311
 
 💜【﻿❤Ｚａｌｏ✿】 --⋟ 0926099715
 
