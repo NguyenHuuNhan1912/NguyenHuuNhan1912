@@ -1,4 +1,4 @@
-<img src="https://image.flaticon.com/icons/png/128/2881/2881142.png" width="40" height="40">`Ｈｅｌｌｏ`
+<img src="https://image.flaticon.com/icons/png/128/2881/2881142.png" width="40" height="40"> <img src="https://image.flaticon.com/icons/png/128/2601/2601423.png" width="40" height="40">
 
 [`Introduce yourself`](https://linktr.ee/NhanCoder)
 
