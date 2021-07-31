@@ -1,9 +1,14 @@
 <p align="center"><img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif"></p>
 
-<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
+<a href="https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=nguyenhuunhan1912&layout=compact&theme=chartreuse-dark"/></a>
+
+ <a href="https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912"><img align="right" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuunhan1912&layout=compact&theme=chartreuse-dark"/></a>
+ 
+<br><br><br><br><br><br><br>
 
 <hr>
 
+<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
  <a href="https://github.com/NguyenHuuNhan1912/OOP_JAVA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=OOP_JAVA"></a>
  
  <a href="https://github.com/NguyenHuuNhan1912/LTHDT_CT176"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=LTHDT_CT176"></a>
