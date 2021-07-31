@@ -23,9 +23,9 @@
 <p align="center">
 <a href="https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Thi_Thuc_Hanh_PTTKTT"></a>
 </p>
-
-<hr>
-
+<h2 align="center">
+  <a href="https://github.com/NguyenHuuNhan1912?tab=repositories"<🔎Show more🔎</a>
+</h2>
 <p align="center">
   <a href="https://www.facebook.com/NhanCoder6311"><img src="https://image.flaticon.com/icons/png/128/733/733547.png" width="50" height="50"></a>
   <a href="https://www.instagram.com/nhan.coder.1912/?r=nametag"><img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="50" height="50"></a>
@@ -33,3 +33,4 @@
   <a href="https://linktr.ee/NhanCoder"><img src="https://image.flaticon.com/icons/png/128/2696/2696521.png" width="50" height="50"></a>
   <a href="https://github.com/NguyenHuuNhan1912"><img src="https://image.flaticon.com/icons/png/128/2515/2515875.png" width="50" height="50"></a>
 </p>
+
