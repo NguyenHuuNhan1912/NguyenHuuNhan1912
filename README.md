@@ -22,9 +22,12 @@
 
 <br><br><br><br><br><br><br>
 
-<p align="center">
-<a href="https://github.com/NguyenHuuNhan1912/Thi_Thuc_Hanh_PTTKTT"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Thi_Thuc_Hanh_PTTKTT"></a>
-</p>
+<a href="https://github.com/NguyenHuuNhan1912/Thi_Thuc_hanh_PTTKTT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Thi_Thuc_Hanh_PTTKTT"></a>
+
+
+
+
+<br><br><br><br><br><br><br>
 
 <h2 align="center">
   <a href="https://github.com/NguyenHuuNhan1912?tab=repositories">🔎Show more🔎</a>
