@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.gif"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif" width="90%"></p>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=nguyenhuunhan1912&theme=dracula" width="100%"/>
 <br>
