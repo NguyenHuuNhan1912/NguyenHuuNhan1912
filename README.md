@@ -16,9 +16,9 @@
  
 <br><br><br><br><br><br><br>
 
-<a href="https://github.com/NguyenHuuNhan1912/C_Code"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=C_Code"></a>
+<a href="https://github.com/NguyenHuuNhan1912/Ly_Thuyet_Do_Thi"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Ly_Thuyet_Do_Thi"></a>
 
-<a href="https://github.com/NguyenHuuNhan1912/Database_System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Database_System"></a>
+<a href="https://github.com/NguyenHuuNhan1912/Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Python"></a>
 
 <br><br><br><br><br><br><br>
 
