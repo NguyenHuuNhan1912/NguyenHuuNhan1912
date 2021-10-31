@@ -24,7 +24,7 @@
 
 <a href="https://github.com/NguyenHuuNhan1912/HTML-CSS-JS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=HTML-CSS-JS"></a>
 
-<a href="https://github.com/NguyenHuuNhan1912/Thi_Thuc_hanh_PTTKTT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Thi_Thuc_hanh_PTTKTT"></a>
+<a href="https://github.com/NguyenHuuNhan1912/Phan-Tich-Thiet-Ke-Thuat-Toan"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuunhan1912&theme=chartreuse-dark&border_color=61dafb&border_radius=10&repo=Phan-Tich-Thiet-Ke-Thuat-Toan"></a>
 
 
 <br><br><br><br><br><br><br>
