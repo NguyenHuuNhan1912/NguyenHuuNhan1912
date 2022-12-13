@@ -1,8 +1,6 @@
 <p align="center"><img src="https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912/blob/main/wall-main.png" width="90%"></p>
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nguyenhuunhan1912&theme=dracula" width="100%"/>
-
 <br>
 <a href="https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api?username=nguyenhuunhan1912&layout=compact&theme=chartreuse-dark"/></a>
  <a href="https://github.com/NguyenHuuNhan1912/NguyenHuuNhan1912"><img align="right" height="125"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuunhan1912&layout=compact&theme=chartreuse-dark"/></a>
