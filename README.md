@@ -75,7 +75,7 @@
 
 ### Others
 <img align="left" alt="Jira" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
-<img align="left" alt="Open Project" width="50px" style="padding-right:10px;" src="https://www.openproject.org/assets/images/press/openproject-logo-centered-color-86c2838b.png" />
+<img align="left" alt="Open Project" width="50px" style="padding-right:10px;" src="https://www.openproject.org/assets/images/press/openproject-logo-centered-blue-background-d7fcb3fb.png" />
 <img align="left" alt="Intellij" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Intellij" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" />
 
