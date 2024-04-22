@@ -69,7 +69,8 @@
 ### Tools
 
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /><br/>
+<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png?20200330143628" /><br/>
 
 <br/>
 
