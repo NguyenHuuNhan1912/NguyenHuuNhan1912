@@ -43,9 +43,7 @@
 <img align="left" alt="NestJs" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/5433/5433712.png" /> 
 <img align="left" alt="Java Spring" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Socket" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" /><br />
-
+<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><br/>
 <br/>
 
 
