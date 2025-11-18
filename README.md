@@ -1,6 +1,6 @@
 # Nguyen Huu Nhan
 
-**`Fullstack Developer`**
+**`I am a software engineer`**
 
 
 ### Frontend
@@ -25,13 +25,13 @@
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Antd" width="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" />
+<img align="left" alt="Antd" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353401/ant-design.svg" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 
 <br/><br/>
 
 
-<img align="left" alt="React Query" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" />
+<img align="left" alt="React Query" width="50px" style="padding-right:10px;" src="https://tanstack.com/images/logos/logo-color-100.png" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
 <br/><br/>
